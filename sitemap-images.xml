@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://magnum-agency.org/</loc>
+    <image:image>
+      <image:loc>https://magnum-agency.org/assets/logo.png</image:loc>
+      <image:title>Magnum Agency Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://magnum-agency.org/assets/og-image.jpg</image:loc>
+      <image:title>Magnum Agency - Certified Ethical Hackers</image:title>
+    </image:image>
+  </url>
+</urlset>
